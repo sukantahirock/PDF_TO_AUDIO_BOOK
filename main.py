@@ -1,5 +1,5 @@
 import pyttsx3
-from PyPDF2 import PdfReader
+from PyPDF2 import PdfReaders
 
 # Open the PDF file
 book = open('bo.pdf', 'rb')
